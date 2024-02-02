@@ -1,0 +1,15 @@
+@media (max-width: 430px) {
+  .rating-wrapper {
+    width: 100%;
+    max-width: 350px;
+    height: 412px;
+    padding: 30px;
+  }
+  .ratings li {
+    width: 45px;
+    height: 45px;
+  }
+  .rating-wrapper button {
+    width: 100%;
+  }
+}
